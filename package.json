@@ -1,0 +1,19 @@
+{
+  "name": "taixiu-api",
+  "version": "1.0.0",
+  "description": "API Game Tài Xỉu chạy phiên liên tục trả JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["taixiu", "game", "api", "nodejs", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
